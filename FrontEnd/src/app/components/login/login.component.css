@@ -1,0 +1,56 @@
+.logoAp {
+    filter: invert();
+}
+
+.fa-brands.fa-linkedin.fa-2x {
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-linkedin.fa-2x:hover {
+    color: blue;
+}
+
+.fa-brands.fa-github-alt.fa-2x{
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-github-alt.fa-2x:hover {
+    
+    color: green;
+   
+}
+
+.fa-brands.fa-facebook.fa-2x {
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-facebook.fa-2x:hover {
+    color: blue;
+}
+
+.btn.btn-primary {
+    --bs-btn-line-height:2.3;
+}
+
+.login {
+    height: 72vh;
+}
+
+.col-8.formulario-login {
+    margin-top: 10%;
+}
+
+.btn.btn-secondary {
+    --bs-btn-line-height: 2.3;
+    width: 83.16px;
+}
+
+small a {
+    font-size: 16px;
+}
+
+
+

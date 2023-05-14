@@ -1,0 +1,36 @@
+.logoAp {
+    filter: invert();
+}
+
+.fa-brands.fa-linkedin.fa-2x {
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-linkedin.fa-2x:hover {
+    color: blue;
+}
+
+.fa-brands.fa-github-alt.fa-2x{
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-github-alt.fa-2x:hover {
+    
+    color: green;
+   
+}
+
+.fa-brands.fa-facebook.fa-2x {
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-facebook.fa-2x:hover {
+    color: blue;
+}
+
+.btn.btn-primary {
+    --bs-btn-line-height:2.3;
+}

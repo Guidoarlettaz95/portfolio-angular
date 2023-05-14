@@ -1,0 +1,104 @@
+.logoAp {
+    filter: invert();
+}
+
+.fa-brands.fa-linkedin.fa-2x {
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-linkedin.fa-2x:hover {
+    color: blue;
+}
+
+.fa-brands.fa-github-alt.fa-2x{
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-github-alt.fa-2x:hover {
+    
+    color: green;
+   
+}
+
+.fa-brands.fa-facebook.fa-2x {
+    text-decoration: none;
+    color: #000;
+}
+
+.fa-brands.fa-facebook.fa-2x:hover {
+    color: blue;
+}
+
+.btn.btn-primary {
+    --bs-btn-line-height:2.3;
+}
+
+
+
+
+
+.btn.btn-secondary {
+    --bs-btn-line-height: 2.3;
+    width: 83.16px;
+}
+
+
+
+
+
+nav.vertical {
+    float: left;
+    margin-left: 0.5rem;
+    margin-top: 2rem;
+}
+
+li.vertical {
+    display: block;
+    margin: 0;
+    writing-mode: vertical;
+    padding: 0.85rem 0;
+    font-size: 1.25rem;
+    
+}
+
+.link {
+    text-decoration: none;
+    color: #000
+}
+
+.fa-solid.fa-hashtag {
+    justify-content: center;
+    display: flex;
+}
+
+
+
+
+
+.proyectos {
+    margin-bottom: 2rem;
+}
+
+
+
+.educacion {
+    padding-bottom: 2rem;
+}
+
+.skills {
+    padding-bottom: 2rem;
+}
+
+.btn.btn-success {
+    margin: 0.15rem;
+}
+
+.btn.btn-danger{
+    margin: 0.15rem;
+}
+
+.btn.btn-warning {
+    margin: 0.15rem;
+}

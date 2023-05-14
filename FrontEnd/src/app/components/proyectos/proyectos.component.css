@@ -1,0 +1,14 @@
+.card {
+    margin: 2rem;
+    
+}
+
+
+.btn.btn-primary {
+    --bs-btn-line-height:2.3;
+}
+
+.proyectos {
+    margin-bottom: 2rem;
+    
+}

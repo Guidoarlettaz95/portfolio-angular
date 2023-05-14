@@ -1,0 +1,26 @@
+<section id = "navbar">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="https://argentinaprograma.inti.gob.ar/" target="_blank"><img class="logoAp" src="assets/imagen/logo.png" alt="logo-argentina-programa" title="argentina programa"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                
+            </ul>
+            <ul class="list-group list-group-horizontal">
+                <li class="list-group-item"><a href="https://www.linkedin.com/in/guido-arlettaz-056491212/" target="_blank"><i class="fa-brands fa-linkedin fa-2x"></i></a></li>
+                <li class="list-group-item"><a href="https://github.com/Guidoarlettaz95" target="_blank"><i class="fa-brands fa-github-alt fa-2x"></i></a></li>
+                <li class="list-group-item"><a href="https://www.facebook.com/guido.arlettaz/" target="_blank"><i class="fa-brands fa-facebook fa-2x"></i></a></li>
+                <!--boton que envia al login-->
+<a routerLink="/login"><button type="button" class="btn btn-primary" *ngIf="!isLogged">Iniciar Sesión</button>
+</a>
+<button type="button" class="btn btn-primary" (click)="onLogOut()" *ngIf="isLogged">Cerrar sesion</button>
+
+
+              </ul>
+          </div>
+        </div>
+      </nav>
+</section>
