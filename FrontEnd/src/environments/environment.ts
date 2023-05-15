@@ -10,6 +10,6 @@ export const environment = {
     measurementId: 'G-00500LT8QB',
   },
 
-  production: false,
-  URL: 'http://localhost:8080/'
+  production: true,
+  URL: 'https://backend-oxtg.onrender.com/'
 };
